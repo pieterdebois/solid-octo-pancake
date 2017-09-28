@@ -6,3 +6,5 @@ nog een lijntje zonder commit
 en nog eentje met commit
 
 open dak toegevoegd
+
+nog een open dak toevoegen
